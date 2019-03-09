@@ -4,6 +4,7 @@ import exercicio3.ContaCorrente;
 import exercicio4.BombaDAgua;
 import exercicio5.UsaGps;
 import exercicio6.CentralDeControle;
+import exercicio7.ControleRemoto;
 
 import java.util.Scanner;
 
@@ -36,6 +37,9 @@ public class Main {
                     break;
                 case 6:
                     exercicio6(ler);
+                    break;
+                case 7:
+                    exercicio7();
                     break;
                 default:
                     System.out.println("Número do exercício inválido!");
@@ -167,6 +171,11 @@ public class Main {
     public static void exercicio6(Scanner ler) {
         CentralDeControle central = new CentralDeControle();
         central.menu(ler);
+    }
+
+    public static void exercicio7() {
+        ControleRemoto controle = new ControleRemoto();
+        controle.main();
     }
 
 }
