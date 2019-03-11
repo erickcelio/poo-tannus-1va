@@ -2,6 +2,8 @@ import exercicio1.Aluno;
 import exercicio2.Pessoa;
 import exercicio3.ContaCorrente;
 import exercicio4.BombaDAgua;
+import exercicio5.UsaGps;
+import exercicio6.CentralDeControle;
 
 import java.util.Scanner;
 
@@ -28,6 +30,12 @@ public class Main {
                     break;
                 case 4:
                     exercicio4(ler);
+                    break;
+                case 5:
+                    exercicio5(ler);
+                    break;
+                case 6:
+                    exercicio6(ler);
                     break;
                 default:
                     System.out.println("Número do exercício inválido!");
@@ -150,4 +158,15 @@ public class Main {
             }
         }
     }
+
+    public static void exercicio5(Scanner ler) {
+        UsaGps usaGps = new UsaGps();
+        usaGps.main(ler);
+    }
+
+    public static void exercicio6(Scanner ler) {
+        CentralDeControle central = new CentralDeControle();
+        central.menu(ler);
+    }
+
 }
