@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2544c75b-324b-448a-bbea-5c904f01449f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/META-INF/poo_tannus_1va.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio1/Aluno.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio2/Pessoa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio3/ContaCorrente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio4/BombaDAgua$RemindTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio4/BombaDAgua.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio5/Gps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio5/UsaGps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/Alarme.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/CentralDeControle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/Controlador$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/Controlador.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/Sensor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio6/diagrama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio7/ControleRemoto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio7/Televisao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/poo_tannus_1va/exercicio8/NumeroComplexo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio7/ControleRemoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio7/Televisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio8/NumeroComplexo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio6/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio6/Controlador.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,13 +28,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4137">
-              <caret line="197" column="34" selection-start-line="197" selection-start-column="34" selection-end-line="197" selection-end-column="34" />
+            <state relative-caret-position="48">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exercicio6/Controlador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="108" column="38" lean-forward="true" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Controlador#0;class#Controlador#0" />
+                <element signature="method#ligarSistema#0;class#Controlador#0" />
+                <element signature="method#desligarSistema#0;class#Controlador#0" />
+                <element signature="method#ligarSensor#0;class#Controlador#0" />
+                <element signature="method#testarSensor#0;class#Controlador#0" />
+                <element signature="method#mostrarStatusSensores#0;class#Controlador#0" />
+                <element signature="method#mostrarSensoresLigados#0;class#Controlador#0" />
+                <element signature="method#mostrarSensoresDesligados#0;class#Controlador#0" />
               </folding>
             </state>
           </provider>
@@ -109,12 +107,12 @@
         <option value="$PROJECT_DIR$/src/exercicio6/Sensor.java" />
         <option value="$PROJECT_DIR$/src/exercicio6/Alarme.java" />
         <option value="$PROJECT_DIR$/src/exercicio6/CentralDeControle.java" />
-        <option value="$PROJECT_DIR$/src/exercicio6/Controlador.java" />
         <option value="$PROJECT_DIR$/src/exercicio7/Televisao.java" />
         <option value="$PROJECT_DIR$/src/exercicio7/ControleRemoto.java" />
         <option value="$PROJECT_DIR$/src/exercicio1/Aluno.java" />
         <option value="$PROJECT_DIR$/src/exercicio8/NumeroComplexo.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/exercicio6/Controlador.java" />
       </list>
     </option>
   </component>
@@ -149,6 +147,12 @@
               <item name="poo-tannus-1va" type="b2602c69:ProjectViewProjectNode" />
               <item name="poo-tannus-1va" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicio6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poo-tannus-1va" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poo-tannus-1va" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="exercicio8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -161,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552858057178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552858222467" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -256,7 +260,7 @@
       <workItem from="1552152817648" duration="71000" />
       <workItem from="1552152910022" duration="23893000" />
       <workItem from="1552107686748" duration="9093000" />
-      <workItem from="1552853035052" duration="4995000" />
+      <workItem from="1552853035052" duration="5182000" />
     </task>
     <task id="LOCAL-00001" summary="Exercício 1 ao 4">
       <created>1552239238129</created>
@@ -272,14 +276,22 @@
       <option name="project" value="LOCAL" />
       <updated>1552111873074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercício 8">
+      <created>1552858069863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552858069865</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39920000" />
+    <option name="totallyTimeSpent" value="40107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19952115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -318,7 +330,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercício 1 ao 4" />
     <MESSAGE value="Exercício 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício 7" />
+    <MESSAGE value="Exercício 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício 8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Aluno.java" />
@@ -400,24 +413,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio8.java" />
-    <entry file="file://$PROJECT_DIR$/src/exercicio6/Controlador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Controlador#0;class#Controlador#0" />
-            <element signature="method#ligarSistema#0;class#Controlador#0" />
-            <element signature="method#desligarSistema#0;class#Controlador#0" />
-            <element signature="method#ligarSensor#0;class#Controlador#0" />
-            <element signature="method#testarSensor#0;class#Controlador#0" />
-            <element signature="method#mostrarStatusSensores#0;class#Controlador#0" />
-            <element signature="method#mostrarSensoresLigados#0;class#Controlador#0" />
-            <element signature="method#mostrarSensoresDesligados#0;class#Controlador#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio6/CentralDeControle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -429,16 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio6/Sensor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="method#Sensor#0;class#Sensor#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,6 +441,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio6/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="method#Sensor#0;class#Sensor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio8/NumeroComplexo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -469,12 +474,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/exercicio6/Controlador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4137">
-          <caret line="197" column="34" selection-start-line="197" selection-start-column="34" selection-end-line="197" selection-end-column="34" />
+        <state relative-caret-position="336">
+          <caret line="108" column="38" lean-forward="true" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#Controlador#0;class#Controlador#0" />
+            <element signature="method#ligarSistema#0;class#Controlador#0" />
+            <element signature="method#desligarSistema#0;class#Controlador#0" />
+            <element signature="method#ligarSensor#0;class#Controlador#0" />
+            <element signature="method#testarSensor#0;class#Controlador#0" />
+            <element signature="method#mostrarStatusSensores#0;class#Controlador#0" />
+            <element signature="method#mostrarSensoresLigados#0;class#Controlador#0" />
+            <element signature="method#mostrarSensoresDesligados#0;class#Controlador#0" />
           </folding>
         </state>
       </provider>

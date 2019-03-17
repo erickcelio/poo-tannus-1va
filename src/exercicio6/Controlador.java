@@ -105,7 +105,7 @@ public class Controlador {
         boolean sensorDesativo = false;
         for (Sensor sensor : this.sensores) {
             if (sensor.getCodigo().equals(cod) && sensor.isLigado()) {
-                sensor.ligar();
+                sensor.desligar();
                 sensorDesativo = true;
             }
         }
